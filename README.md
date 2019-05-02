@@ -8,3 +8,5 @@ using Pkg
 Pkg.add(["PyPlot","QuadGK","SpecialFunctions"])
 ```
 The spectrum for different target distributions can then be computed in the way displayed in the Jupyter Notebook file `compute_eigenvalues.ipynb`.
+
+Perturbations of the spectrum are obtained in the Julia file `run_spectrum.jl`.
